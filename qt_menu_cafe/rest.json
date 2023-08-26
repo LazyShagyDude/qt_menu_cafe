@@ -1,0 +1,17 @@
+{
+"pizza":{
+"pepperoni":300,
+"margarita":250,
+"burger":400
+},
+"ramen":{
+"udon":400,
+"kim-chi":450,
+"Soya":250
+},
+"drinks":{
+"mtndew":60,
+"cola":75,
+"mors":55
+}
+}
